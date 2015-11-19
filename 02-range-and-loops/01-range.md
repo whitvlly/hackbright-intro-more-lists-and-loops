@@ -29,8 +29,8 @@
 Make sure you have pushed your lists exercises before making any commits on GitHub, otherwise you will have to make a merge commit later.*
 
 1. What does `range` do with a single argument?
-  * [Your answer here]
+  * returns all numbers, from 0 up to number. Ex: range(3) is 0,1,2
 2. What do the arguments mean if there are 2?
-  * [Your answer here]
+  * one of arguments is the beginning number, and second - is the ending number, Ex: range(1,4) - start from 1, end with 3
 3. What does the third argument mean?
-  * [Your answer here]
+  * the 3rd argument does the steps for that specific element Ex: (1,10,2) is 1,3,5,7,9
